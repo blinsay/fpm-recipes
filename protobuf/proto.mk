@@ -1,5 +1,5 @@
 NAME = protobuf$(NAME_VERSION)
-SOURCE_URL = https://protobuf.googlecode.com/files/protobuf-$(VERSION).tar.gz 
+SOURCE_URL = http://protobuf.googlecode.com/files/protobuf-$(VERSION).tar.gz 
 
 PROTO_INSTALL_DIR = /opt/protobuf/
 FPM_SOURCE = dir
